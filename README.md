@@ -1,6 +1,6 @@
 # Most-Dominant-Color-Extraction
 The Python script uses KMeans clustering algrithm to extract the 8 most dominant colors in the image shown below. 
-![]({{site.baseurl}}//Nature.jpg)
+![]({{site.baseurl}}/Nature.jpg)
 
 After applying the KMeans clustering algorithm the following results are observed:
 ![]({{site.baseurl}}/)![Dominant Colors in Random Order.]({{site.baseurl}}//rand-dom.png)
